@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Samina Fashion",
-    "slug": "samina-fashion-app",
+    "slug": "samina-fashion-store-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,11 +28,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "your-project-id"
-      }
     }
   }
 }
